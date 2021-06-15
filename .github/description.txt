@@ -1,0 +1,1 @@
+Django makemigrations settings module
